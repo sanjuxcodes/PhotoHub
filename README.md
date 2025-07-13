@@ -34,17 +34,17 @@ PhotoHub is an Android application built with Firebase, Room DB, and Material UI
 | ![Logo](screenshot/logo.jpeg) | ![splash](screenshot/splash.jpeg)
 
 
-| Login Screen | New Photographer Form |
+| Login Screen | Landing Page |
 |--------------|-------------------|
-| ![Login](screenshot/login.jpeg) | ![Form](screenshot/newPhotographerForm.jpeg) |
+| ![Login](screenshot/login.jpeg) | ![Form](screenshot/landing.jpeg) |
 
-| Portfolio Upload | Photographer Dashboard |
+| Phtographer Form | Portfolio upload |
 |------------------|------------------------|
-| ![Upload](screenshots/photoadd.jepg) | ![Dashboard](screenshots/dashboard_screen.png) |
+| ![Upload](screenshot/newPhotographerForm.jpeg) | ![Dashboard](screenshot/photoadd.jpeg) |
 
 | Consumer Browsing | Photographer Detail Page |
 |-------------------|--------------------------|
-| ![Consumer](screenshots/consumer_screen.png) | ![Detail](screenshots/detail_screen.png) |
+| ![Consumer](screenshots/Consumerend(photographersList).jpeg) | ![Detail](screenshots/detail_screen.png) |
 
 ---
 
