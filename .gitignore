@@ -1,0 +1,14 @@
+# Android Studio
+*.iml
+.gradle/
+.idea/
+local.properties
+.DS_Store
+/build/
+.cxx/
+*.log
+
+# Firebase and keys
+*.jks
+*.keystore
+google-services.json

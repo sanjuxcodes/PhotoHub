@@ -1,0 +1,33 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="24dp">
+
+    <TextView
+        android:id="@+id/appTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PhotoHub"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="40dp"
+
+        />
+
+    <Button
+        android:id="@+id/btnPhotographer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="I'm a Photographer"
+        android:backgroundTint="#6B29EB"/>
+
+    <Button
+        android:id="@+id/btnConsumer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="I'm a Consumer"
+        android:backgroundTint="#7623B8"
+        android:layout_marginTop="16dp"/>
+</LinearLayout>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFF6FC"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="John Doe"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:textColor="#2E2E2E" />
+
+        <TextView
+            android:id="@+id/textBio"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Wedding and Event Photographer"
+            android:textSize="16sp"
+            android:paddingTop="4dp"
+            android:textColor="#4A4A4A" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Services"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:paddingTop="16dp"
+            android:textColor="#2E2E2E" />
+
+        <TextView
+            android:id="@+id/textServices"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Wedding: ₹25,000\nPre-Wedding: ₹15,000\nParty: ₹10,000"
+            android:textSize="16sp"
+            android:paddingTop="4dp"
+            android:textColor="#4A4A4A" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Portfolio"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:paddingTop="16dp"
+            android:textColor="#2E2E2E" />
+
+        <!-- Placeholder for portfolio images -->
+        <LinearLayout
+            android:id="@+id/portfolioContainer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingTop="8dp"
+            android:gravity="start">
+            <!-- Images will be added dynamically -->
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>

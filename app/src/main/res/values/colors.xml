@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Light Theme Colors -->
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryVariant">#3700B3</color>
+    <color name="colorSecondary">#03DAC6</color>
+
+
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="textPrimary">#000000</color>
+    <color name="textSecondary">#666666</color>
+
+    <color name="toolbarLight">#F5F5F5</color>
+    <color name="toolbarTitleColorLight">#000000</color> <!-- black for light mode -->
+
+    <color name="blue">#2196F3</color>
+
+    <color name="searchBoxBackground">#EEEEEE</color>
+</resources>
